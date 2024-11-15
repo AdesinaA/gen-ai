@@ -2,4 +2,4 @@
 This repo contains projects related to generative ai.
 
 ## Projects
-- 📖 [ChatDPT]() :
+- 📖 [ChatDPT](https://github.com/AdesinaA/gen-ai/tree/main/chatdpt) :
