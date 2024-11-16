@@ -3,7 +3,7 @@
 **I was invited to speak at AWS event and showcase the advancement of Generative AI in the cloud.**
 
 ### Sotware Built
-Think of ChatGPT but generating response in different language. ChatDPT is a chatbot built with AWS bedrock, python and streamlit.
+Think of ChatGPT but generating response in different language. ChatDPT is a chatbot built with AWS bedrock, python, Anthropic model and streamlit.
 
 This was built mainly for AWS workshop as i was invited as a speaker to showcase how to : **Explore the Power of Generative AI in the Cloud.**
 
